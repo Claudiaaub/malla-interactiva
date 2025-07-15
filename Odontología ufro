@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "nombre": "Unidad de Integración I",
+  "nivel": 1,
+  "prerreq": []
+},
+{
+  "id": 2,
+  "nombre": "Biología",
+  "nivel": 1,
+  "prerreq": []
+},
+{
+  "id": 3,
+  "nombre": "Química General",
+  "nivel": 1,
+  "prerreq": []
+},
+{
+  "id": 4,
+  "nombre": "Física Aplicada",
+  "nivel": 1,
+  "prerreq": []
+}
+...
